@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "bookTitle": "To Kill a Mockingbird",
+    "isAvailable": true,
+    "genre": "Fiction",
+    "author": "Harper Lee",
+    "pages": 281
+  },
+  {
+    "id": "2",
+    "bookTitle": "1984",
+    "isAvailable": true,
+    "genre": "Dystopian",
+    "author": "George Orwell",
+    "pages": 328
+  },
+  {
+    "id": "3",
+    "bookTitle": "Pride and Prejudice",
+    "isAvailable": false,
+    "genre": "Romance",
+    "author": "Jane Austen",
+    "pages": 279
+  },
+  {
+    "id": "4",
+    "bookTitle": "White Noise",
+    "isAvailable": true,
+    "genre": "Fiction",
+    "author": "Don DeLillo",
+    "pages": 290
+  },
+  {
+    "id": "5",
+    "bookTitle": "The Great Gatsby",
+    "isAvailable": true,
+    "genre": "Fiction",
+    "author": "F. Scott Fitzgerald",
+    "pages": 180
+  },
+  {
+    "id": "6",
+    "bookTitle": "Brave New World",
+    "isAvailable": true,
+    "genre": "Dystopian",
+    "author": "Aldous Huxley",
+    "pages": 311
+  },
+  {
+    "id": "7",
+    "bookTitle": "The Catcher in the Rye",
+    "isAvailable": true,
+    "genre": "Fiction",
+    "author": "J.D. Salinger",
+    "pages": 224
+  },
+  {
+    "id": "8",
+    "bookTitle": "The Hobbit",
+    "isAvailable": true,
+    "genre": "Fantasy",
+    "author": "J.R.R. Tolkien",
+    "pages": 310
+  },
+  {
+    "id": "9",
+    "bookTitle": "Harry Potter and the Philosopher's Stone",
+    "isAvailable": true,
+    "genre": "Fantasy",
+    "author": "J.K. Rowling",
+    "pages": 223
+  },
+  {
+    "id": "10",
+    "bookTitle": "The Lord of the Rings",
+    "isAvailable": true,
+    "genre": "Fantasy",
+    "author": "J.R.R. Tolkien",
+    "pages": 1178
+  }
+]
